@@ -1,7 +1,7 @@
 base:
   project: Haresh-project
   random_state: 42
-  target_col: TARGET
+  target_col: Process_temperature_[K]
 
 data_source:
   s3_source: data_given/ai4i2020.csv
